@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SwitchTega
+- 👋 Hi, I’m @SwitchTech
 - 👀 I’m interested in Web desiging (frontend)
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on any frontweb projects requiring html and css
